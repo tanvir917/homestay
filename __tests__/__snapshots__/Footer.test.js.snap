@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<footer
+  className="footer"
+>
+  <h2>
+    Homestay MIT
+  </h2>
+  <p>
+    © 
+    <span>
+      2023
+    </span>
+     Homestaymit.com - All Rights Copyright Reserved To
+     
+    <a
+      href="https://www.github.com/tanvir917"
+      rel="noreferrer"
+      target="_blank"
+    >
+      SD Lab Group Projet: Tanvir, Rohit, Devansh
+    </a>
+  </p>
+</footer>
+`;

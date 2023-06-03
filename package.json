@@ -55,7 +55,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.5.1",
     "jest-environment-jsdom": "^27.5.1",
-    "react-test-renderer": "^18.2.0",
+    "react-test-renderer": "17.0.1",
     "tailwind.macro": "^1.0.0-alpha.10"
   }
 }
